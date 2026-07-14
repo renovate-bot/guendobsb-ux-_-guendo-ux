@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+*.log
+.npmrc
+.env
+.env.local
+.DS_Store
+*.pem
+.cache/
+coverage/
+*.tsbuildinfo
+.opencode/
+.sisyphus/
